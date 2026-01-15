@@ -1,9 +1,9 @@
 /*====================================================================================================================================*
-  ImportJSON by Joshua Coales, Brad Jasper and Trevor Lohrbeer
+  ImportJSON by Roselyn Coales, Brad Jasper and Trevor Lohrbeer
   ====================================================================================================================================
   Version:      1.9.0
   Project Page: https://github.com/joshcoales/ImportJSON
-  Copyright:    (c) 2021 by Joshua Coales
+  Copyright:    (c) 2021 by Roselyn Coales
                 (c) 2017-2019 by Brad Jasper
                 (c) 2012-2017 by Trevor Lohrbeer
   License:      GNU General Public License, version 3 (GPL-3.0) 
